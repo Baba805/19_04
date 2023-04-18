@@ -1,0 +1,29 @@
+input{
+    height: 25px;
+}
+.add , .delete{
+    height: 30px;
+    width: 40px;
+    margin-left: 10px;
+    font-size: 15px;
+    color: white;
+    background-color: blueviolet;
+    border-radius: 5px;
+    border: 1px solid blue;
+}
+.delete{
+    height: 30px;
+    width: 90px;
+    margin-left: 140px;
+    margin-top: 50px;
+    font-size: 15px;
+    color: white;
+    background-color: blueviolet;
+    border-radius: 5px;
+    border: 1px solid blue;
+}
+
+.todo_item{
+    font-size: 20px;
+    margin-top: 10px;
+}
